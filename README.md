@@ -1,0 +1,2 @@
+# Geoestadistica
+Notas de clase
